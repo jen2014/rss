@@ -1,0 +1,3334 @@
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 6400): Unexpected value from nativeGetEnabledTags: 0
+
+D/webviewglue( 6400): OnTrimMemory with EGL Context 0x0
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+W/Trace   ( 6400): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6383): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6383): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 7880): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 7880): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6089): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6089): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8123): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8123): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4079270 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4079270 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4079270 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+D/dalvikvm( 5709): GC_CONCURRENT freed 421K, 13% free 3777K/4312K, paused 0ms+1ms, total 5ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b40ae5b0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+I/ActivityManager( 5240): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=org.ruboto.example.rss_0/.Rss0Activity} from pid 5492
+
+W/WindowManager( 5240): Failure taking screenshot for (246x410) to layer 21015
+
+W/AudioPolicyManagerBase( 4958): getOutput() could not find output for stream 1, samplingRate 0,format 0, channels 3, flags 0
+
+W/AudioPolicyManagerBase( 4958): getOutput() could not find output for stream 1, samplingRate 0,format 0, channels 3, flags 0
+
+W/AudioPolicyManagerBase( 4958): getOutput() could not find output for stream 1, samplingRate 44100,format 1, channels 1, flags 4
+
+E/AudioTrack( 5240): Could not get audio output for stream type 1
+
+E/SoundPool( 5240): Error creating AudioTrack
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+E/SurfaceFlinger(  794): ro.sf.lcd_density must be defined as a build property
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 4966): GC_EXPLICIT freed 36K, 6% free 2338K/2484K, paused 0ms+0ms, total 2ms
+
+D/dalvikvm( 8245): Not late-enabling CheckJNI (already on)
+
+D/dalvikvm( 4966): GC_EXPLICIT freed <1K, 6% free 2338K/2484K, paused 0ms+0ms, total 2ms
+
+D/dalvikvm( 4966): GC_EXPLICIT freed <1K, 6% free 2338K/2484K, paused 1ms+0ms, total 3ms
+
+I/ActivityManager( 5240): Start proc org.ruboto.example.rss_0 for activity org.ruboto.example.rss_0/.Rss0Activity: pid=8245 uid=10056 gids={50056, 3003, 1028}
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+E/Trace   ( 8245): error opening trace file: No such file or directory (2)
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityThread( 8245): Application org.ruboto.example.rss_0 can be debugged on port 8100...
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/RUBOTO  ( 8245): EntryPointActivity onCreate:
+
+I/ActivityManager( 5240): START u0 {cmp=org.ruboto.example.rss_0/org.ruboto.SplashActivity (has extras)} from pid 8245
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+I/System.out( 8245): RubotoActivity onCreate(): org.ruboto.example.rss_0.Rss0Activity, finishing: true
+
+I/RUBOTO  ( 8245): Method called before JRuby runtime was initialized: RubotoActivity#onApplyThemeResource
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+I/RUBOTO  ( 8245): Method called before JRuby runtime was initialized: RubotoActivity#onUserInteraction
+
+I/RUBOTO  ( 8245): Method called before JRuby runtime was initialized: RubotoActivity#onUserLeaveHint
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/RUBOTO  ( 8245): SplashActivity onCreate:
+
+I/RUBOTO  ( 8245): Showing progress
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 114K, 9% free 2505K/2732K, paused 1ms, total 2ms
+
+I/dalvikvm-heap( 8245): Grow heap (frag case) to 3.158MB for 635808-byte allocation
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 1K, 7% free 3125K/3356K, paused 6ms, total 6ms
+
+D/dalvikvm( 8245): GC_CONCURRENT freed <1K, 7% free 3125K/3356K, paused 0ms+1ms, total 2ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+D/RUBOTO  ( 8245): onResume: 
+
+D/RUBOTO  ( 8245): Setting up JRuby runtime (DEBUG)
+
+I/System.out( 8245): Found JRuby in platform APK
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 90K, 6% free 3421K/3624K, paused 3ms+1ms, total 5ms
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 109K, 6% free 3699K/3928K, paused 2ms+1ms, total 4ms
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 113K, 6% free 3970K/4208K, paused 2ms+0ms, total 4ms
+
+I/RUBOTO  ( 8245): RUBOTO_CORE_VERSION_NAME: 1.0.1
+
+I/RUBOTO  ( 8245): Setting JRUBY_HOME: file:/data/app/org.ruboto.core-1.apk!/jruby.home
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 141K, 7% free 4251K/4524K, paused 9ms+0ms, total 11ms
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+I/dalvikvm( 8245): Could not find method org.jruby.ext.tracepoint.TracePoint.createTracePointClass, referenced from method org.jruby.Ruby.initCore
+
+W/dalvikvm( 8245): VFY: unable to resolve static method 37183: Lorg/jruby/ext/tracepoint/TracePoint;.createTracePointClass (Lorg/jruby/Ruby;)V
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x71 at 0x0329
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 297K, 9% free 4466K/4888K, paused 8ms+1ms, total 11ms
+
+I/dalvikvm( 8245): Could not find method sun.misc.Unsafe.copyMemory, referenced from method org.jruby.RubyEncoding.encodeUTF16
+
+W/dalvikvm( 8245): VFY: unable to resolve virtual method 56223: Lsun/misc/Unsafe;.copyMemory (Ljava/lang/Object;JLjava/lang/Object;JJ)V
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x74 at 0x002a
+
+I/dalvikvm( 8245): Could not find method sun.misc.Unsafe.fullFence, referenced from method org.jruby.util.unsafe.UnsafeHolder.fullFence
+
+W/dalvikvm( 8245): VFY: unable to resolve virtual method 56224: Lsun/misc/Unsafe;.fullFence ()V
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x6e at 0x0002
+
+I/dalvikvm( 8245): Could not find method sun.misc.Unsafe.loadFence, referenced from method org.jruby.util.unsafe.UnsafeHolder.loadFence
+
+W/dalvikvm( 8245): VFY: unable to resolve virtual method 56228: Lsun/misc/Unsafe;.loadFence ()V
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x6e at 0x0002
+
+I/dalvikvm( 8245): Could not find method sun.misc.Unsafe.storeFence, referenced from method org.jruby.util.unsafe.UnsafeHolder.storeFence
+
+W/dalvikvm( 8245): VFY: unable to resolve virtual method 56232: Lsun/misc/Unsafe;.storeFence ()V
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x6e at 0x0002
+
+I/dalvikvm( 8245): Could not find method java.lang.management.ManagementFactory.getPlatformMBeanServer, referenced from method org.jruby.management.BeanManagerImpl.register
+
+W/dalvikvm( 8245): VFY: unable to resolve static method 7108: Ljava/lang/management/ManagementFactory;.getPlatformMBeanServer ()Ljavax/management/MBeanServer;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x71 at 0x0000
+
+W/dalvikvm( 8245): VFY: unable to resolve exception class 1129 (Ljavax/management/InstanceAlreadyExistsException;)
+
+W/dalvikvm( 8245): VFY: unable to find exception handler at addr 0xd
+
+W/dalvikvm( 8245): VFY:  rejected Lorg/jruby/management/BeanManagerImpl;.register (Ljava/lang/String;Ljava/lang/Object;)V
+
+W/dalvikvm( 8245): VFY:  rejecting opcode 0x0d at 0x000d
+
+W/dalvikvm( 8245): VFY:  rejected Lorg/jruby/management/BeanManagerImpl;.register (Ljava/lang/String;Ljava/lang/Object;)V
+
+W/dalvikvm( 8245): Verifier rejected class Lorg/jruby/management/BeanManagerImpl;
+
+W/dalvikvm( 8245): Unable to resolve superclass of Lorg/jruby/compiler/impl/ChildScopedBodyCompiler; (4705)
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/compiler/impl/ChildScopedBodyCompiler;' failed
+
+E/dalvikvm( 8245): Could not find class 'org.jruby.compiler.impl.ChildScopedBodyCompiler', referenced from method org.jruby.compiler.JITCompiler.compileBlock
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 4710 (Lorg/jruby/compiler/impl/ChildScopedBodyCompiler;) in Lorg/jruby/compiler/JITCompiler;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0043
+
+W/dalvikvm( 8245): Unable to resolve superclass of Lorg/jruby/compiler/impl/ChildScopedBodyCompiler; (4705)
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/compiler/impl/ChildScopedBodyCompiler;' failed
+
+W/dalvikvm( 8245): Unable to resolve superclass of Lorg/jruby/compiler/impl/ChildScopedBodyCompiler19; (4710)
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/compiler/impl/ChildScopedBodyCompiler19;' failed
+
+E/dalvikvm( 8245): Could not find class 'org.jruby.compiler.impl.ChildScopedBodyCompiler19', referenced from method org.jruby.compiler.JITCompiler.compileBlock19
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 4709 (Lorg/jruby/compiler/impl/ChildScopedBodyCompiler19;) in Lorg/jruby/compiler/JITCompiler;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x004f
+
+W/dalvikvm( 8245): Unable to resolve superclass of Lorg/jruby/compiler/impl/ChildScopedBodyCompiler; (4705)
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/compiler/impl/ChildScopedBodyCompiler;' failed
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x7c44 at 0x4e in Lorg/jruby/compiler/JITCompiler;.compileBlock
+
+W/dalvikvm( 8245): Unable to resolve superclass of Lorg/jruby/compiler/impl/ChildScopedBodyCompiler; (4705)
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/compiler/impl/ChildScopedBodyCompiler;' failed
+
+W/dalvikvm( 8245): Unable to resolve superclass of Lorg/jruby/compiler/impl/ChildScopedBodyCompiler19; (4710)
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/compiler/impl/ChildScopedBodyCompiler19;' failed
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x7c3f at 0x5a in Lorg/jruby/compiler/JITCompiler;.compileBlock19
+
+W/dalvikvm( 8245): VFY: unable to find class referenced in signature (Ljnr/ffi/mapper/FunctionMapper;)
+
+I/dalvikvm( 8245): Failed resolving Ljnr/posix/SimpleFunctionMapper; interface 1414 'Ljnr/ffi/mapper/FunctionMapper;'
+
+W/dalvikvm( 8245): Link of class 'Ljnr/posix/SimpleFunctionMapper;' failed
+
+W/dalvikvm( 8245): VFY: unable to find class referenced in signature (Ljnr/posix/SimpleFunctionMapper;)
+
+W/dalvikvm( 8245): VFY: unable to find class referenced in signature (Ljnr/ffi/mapper/FunctionMapper;)
+
+I/dalvikvm( 8245): Failed resolving Ljnr/posix/SimpleFunctionMapper; interface 1414 'Ljnr/ffi/mapper/FunctionMapper;'
+
+W/dalvikvm( 8245): Link of class 'Ljnr/posix/SimpleFunctionMapper;' failed
+
+W/dalvikvm( 8245): VFY: unable to find class referenced in signature (Ljnr/posix/SimpleFunctionMapper;)
+
+I/dalvikvm( 8245): Failed resolving Ljnr/posix/SimpleFunctionMapper; interface 1414 'Ljnr/ffi/mapper/FunctionMapper;'
+
+W/dalvikvm( 8245): Link of class 'Ljnr/posix/SimpleFunctionMapper;' failed
+
+W/dalvikvm( 8245): VFY: unable to find class referenced in signature (Ljnr/posix/SimpleFunctionMapper;)
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.AixLibC', referenced from method jnr.posix.POSIXFactory.libraryInterface
+
+W/dalvikvm( 8245): VFY: unable to resolve const-class 1476 (Ljnr/posix/AixLibC;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x1c at 0x0019
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.SolarisLibC', referenced from method jnr.posix.POSIXFactory.libraryInterface
+
+W/dalvikvm( 8245): VFY: unable to resolve const-class 1547 (Ljnr/posix/SolarisLibC;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x1c at 0x001c
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.WindowsLibC', referenced from method jnr.posix.POSIXFactory.libraryInterface
+
+W/dalvikvm( 8245): VFY: unable to resolve const-class 1559 (Ljnr/posix/WindowsLibC;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x1c at 0x001f
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.AixPOSIX', referenced from method jnr.posix.POSIXFactory.loadAixPOSIX
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 1477 (Ljnr/posix/AixPOSIX;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.FreeBSDPOSIX', referenced from method jnr.posix.POSIXFactory.loadFreeBSDPOSIX
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 1493 (Ljnr/posix/FreeBSDPOSIX;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.MacOSPOSIX', referenced from method jnr.posix.POSIXFactory.loadMacOSPOSIX
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 1526 (Ljnr/posix/MacOSPOSIX;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.OpenBSDPOSIX', referenced from method jnr.posix.POSIXFactory.loadOpenBSDPOSIX
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 1532 (Ljnr/posix/OpenBSDPOSIX;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.SolarisPOSIX', referenced from method jnr.posix.POSIXFactory.loadSolarisPOSIX
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 1548 (Ljnr/posix/SolarisPOSIX;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+E/dalvikvm( 8245): Could not find class 'jnr.posix.WindowsPOSIX', referenced from method jnr.posix.POSIXFactory.loadWindowsPOSIX
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 1560 (Ljnr/posix/WindowsPOSIX;) in Ljnr/posix/POSIXFactory;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+W/dalvikvm( 8245): VFY: unable to find class referenced in signature (Ljnr/ffi/mapper/FunctionMapper;)
+
+I/dalvikvm( 8245): Failed resolving Ljnr/posix/POSIXTypeMapper; interface 1419 'Ljnr/ffi/mapper/TypeMapper;'
+
+W/dalvikvm( 8245): Link of class 'Ljnr/posix/POSIXTypeMapper;' failed
+
+W/dalvikvm( 8245): VFY: unable to resolve static field 5367 (INSTANCE) in Ljnr/posix/POSIXTypeMapper;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x62 at 0x0012
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x2638 at 0x04 in Ljnr/posix/POSIXFactory;.loadAixPOSIX
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x273e at 0x04 in Ljnr/posix/POSIXFactory;.loadFreeBSDPOSIX
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x290c at 0x04 in Ljnr/posix/POSIXFactory;.loadMacOSPOSIX
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x291a at 0x04 in Ljnr/posix/POSIXFactory;.loadOpenBSDPOSIX
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x29a8 at 0x04 in Ljnr/posix/POSIXFactory;.loadSolarisPOSIX
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x29cf at 0x04 in Ljnr/posix/POSIXFactory;.loadWindowsPOSIX
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 454K, 12% free 4597K/5172K, paused 9ms+0ms, total 12ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 448K, 11% free 4780K/5348K, paused 9ms+1ms, total 12ms
+
+E/SurfaceFlinger(  794): ro.sf.lcd_density must be defined as a build property
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 179K, 6% free 5292K/5596K, paused 6ms+0ms, total 9ms
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 280K, 7% free 5872K/6288K, paused 2ms+0ms, total 5ms
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 592K, 13% free 6127K/6964K, paused 3ms, total 3ms
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 254K, 15% free 6383K/7476K, paused 3ms, total 3ms
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 755K, 16% free 6508K/7732K, paused 22ms, total 23ms
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 254K, 13% free 6763K/7732K, paused 3ms, total 4ms
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 750K, 16% free 6888K/8116K, paused 3ms, total 3ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+E/SurfaceFlinger(  794): ro.sf.lcd_density must be defined as a build property
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 867K, 13% free 7417K/8496K, paused 10ms+0ms, total 14ms
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+I/Choreographer( 8245): Skipped 54 frames!  The application may be doing too much work on its main thread.
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/gralloc_goldfish( 8245): Emulator without GPU emulation detected.
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 322K, 5% free 8665K/9100K, paused 10ms+1ms, total 16ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1121K, 12% free 9466K/10700K, paused 10ms+0ms, total 17ms
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 424K, 5% free 10964K/11500K, paused 10ms+0ms, total 19ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+I/Choreographer( 8245): Skipped 79 frames!  The application may be doing too much work on its main thread.
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1956K, 16% free 10931K/13000K, paused 8ms+1ms, total 19ms
+
+I/dalvikvm( 8245): Could not find method java.lang.management.ManagementFactory.getGarbageCollectorMXBeans, referenced from method org.jruby.RubyGC.count
+
+W/dalvikvm( 8245): VFY: unable to resolve static method 7107: Ljava/lang/management/ManagementFactory;.getGarbageCollectorMXBeans ()Ljava/util/List;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x71 at 0x0001
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+I/dalvikvm( 8245): Could not find method org.jruby.util.WindowsFFI.kernel32, referenced from method org.jruby.RubyProcess.kill
+
+W/dalvikvm( 8245): VFY: unable to resolve static method 54015: Lorg/jruby/util/WindowsFFI;.kernel32 ()Lorg/jruby/util/WindowsFFI$Kernel32;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x71 at 0x0077
+
+I/dalvikvm( 8245): Could not find method org.jruby.util.WindowsFFI.kernel32, referenced from method org.jruby.RubyProcess.kill
+
+W/dalvikvm( 8245): VFY: unable to resolve static method 54015: Lorg/jruby/util/WindowsFFI;.kernel32 ()Lorg/jruby/util/WindowsFFI$Kernel32;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x71 at 0x0119
+
+I/dalvikvm( 8245): Could not find method java.lang.management.ManagementFactory.getThreadMXBean, referenced from method org.jruby.RubyProcess.times
+
+W/dalvikvm( 8245): VFY: unable to resolve static method 7110: Ljava/lang/management/ManagementFactory;.getThreadMXBean ()Ljava/lang/management/ThreadMXBean;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x71 at 0x0012
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x2571 at 0x91 in Lorg/jruby/RubyProcess;.kill
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0x2571 at 0x133 in Lorg/jruby/RubyProcess;.kill
+
+W/dalvikvm( 8245): VFY: unable to find class referenced in signature (Lsun/misc/SignalHandler;)
+
+E/dalvikvm( 8245): Could not find class 'sun.misc.Signal', referenced from method org.jruby.util.SunSignalFacade.trap
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 9316 (Lsun/misc/Signal;) in Lorg/jruby/util/SunSignalFacade;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+I/dalvikvm( 8245): Failed resolving Lorg/jruby/util/SunSignalFacade$JRubySignalHandler; interface 9317 'Lsun/misc/SignalHandler;'
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;' failed
+
+I/dalvikvm( 8245): Failed resolving Lorg/jruby/util/SunSignalFacade$JRubySignalHandler; interface 9317 'Lsun/misc/SignalHandler;'
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;' failed
+
+I/dalvikvm( 8245): Could not find method org.jruby.util.SunSignalFacade$JRubySignalHandler.access$000, referenced from method org.jruby.util.SunSignalFacade.trap
+
+W/dalvikvm( 8245): VFY: unable to resolve static method 53910: Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;.access$000 (Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;)Ljava/lang/String;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x71 at 0x0000
+
+W/dalvikvm( 8245): VFY: unable to resolve static field 17516 (SIG_IGN) in Lsun/misc/SignalHandler;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x62 at 0x0008
+
+W/dalvikvm( 8245): VFY: unable to resolve static field 17515 (SIG_DFL) in Lsun/misc/SignalHandler;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x62 at 0x0008
+
+E/dalvikvm( 8245): Could not find class 'sun.misc.Signal', referenced from method org.jruby.util.SunSignalFacade.restorePlatformDefault
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 9316 (Lsun/misc/Signal;) in Lorg/jruby/util/SunSignalFacade;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0005
+
+I/dalvikvm( 8245): Failed resolving Lorg/jruby/util/SunSignalFacade$JRubySignalHandler; interface 9317 'Lsun/misc/SignalHandler;'
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;' failed
+
+E/dalvikvm( 8245): Could not find class 'org.jruby.util.SunSignalFacade$JRubySignalHandler', referenced from method org.jruby.util.SunSignalFacade.trap
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 8972 (Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;) in Lorg/jruby/util/SunSignalFacade;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0000
+
+I/dalvikvm( 8245): Failed resolving Lorg/jruby/util/SunSignalFacade$JRubySignalHandler; interface 9317 'Lsun/misc/SignalHandler;'
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;' failed
+
+E/dalvikvm( 8245): Could not find class 'org.jruby.util.SunSignalFacade$JRubySignalHandler', referenced from method org.jruby.util.SunSignalFacade.trap
+
+W/dalvikvm( 8245): VFY: unable to resolve new-instance 8972 (Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;) in Lorg/jruby/util/SunSignalFacade;
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x22 at 0x0004
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0xdb98 at 0x02 in Lorg/jruby/util/SunSignalFacade;.trap
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0xdb98 at 0x0b in Lorg/jruby/util/SunSignalFacade;.restorePlatformDefault
+
+I/dalvikvm( 8245): Failed resolving Lorg/jruby/util/SunSignalFacade$JRubySignalHandler; interface 9317 'Lsun/misc/SignalHandler;'
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;' failed
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0xd293 at 0x02 in Lorg/jruby/util/SunSignalFacade;.trap
+
+I/dalvikvm( 8245): Failed resolving Lorg/jruby/util/SunSignalFacade$JRubySignalHandler; interface 9317 'Lsun/misc/SignalHandler;'
+
+W/dalvikvm( 8245): Link of class 'Lorg/jruby/util/SunSignalFacade$JRubySignalHandler;' failed
+
+D/dalvikvm( 8245): DexOpt: unable to opt direct call 0xd294 at 0x0e in Lorg/jruby/util/SunSignalFacade;.trap
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1384K, 12% free 11467K/13012K, paused 2ms+0ms, total 12ms
+
+I/dalvikvm( 8245): Could not find method sun.misc.Unsafe.getLong, referenced from method org.jruby.util.StringSupport.utf8Length
+
+W/dalvikvm( 8245): VFY: unable to resolve virtual method 56225: Lsun/misc/Unsafe;.getLong (Ljava/lang/Object;I)J
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x6e at 0x002c
+
+I/dalvikvm( 8245): Could not find method sun.misc.Unsafe.getLong, referenced from method org.jruby.util.StringSupport.utf8Nth
+
+W/dalvikvm( 8245): VFY: unable to resolve virtual method 56225: Lsun/misc/Unsafe;.getLong (Ljava/lang/Object;I)J
+
+D/dalvikvm( 8245): VFY: replacing opcode 0x6e at 0x0027
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1041K, 9% free 12346K/13500K, paused 10ms+0ms, total 22ms
+
+D/dalvikvm( 8245): GC_FOR_ALLOC freed 924K, 8% free 13298K/14372K, paused 33ms, total 33ms
+
+I/ActivityManager( 5240): Displayed org.ruboto.example.rss_0/org.ruboto.SplashActivity: +899ms (total +1h15m0s275ms)
+
+I/Choreographer( 5240): Skipped 63 frames!  The application may be doing too much work on its main thread.
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1562K, 12% free 13661K/15392K, paused 3ms+0ms, total 33ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+I/Choreographer( 8245): Skipped 80 frames!  The application may be doing too much work on its main thread.
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+I/RUBOTO  ( 8245): Method called before JRuby runtime was initialized: RubotoActivity#onDestroy
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1598K, 11% free 13985K/15696K, paused 10ms+0ms, total 24ms
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1272K, 9% free 14635K/16020K, paused 12ms+1ms, total 36ms
+
+W/System.err( 8245): 2014-06-02T15:22:46.911Z: JavaProxyClassFactory: Created proxy class factory: org.ruboto.DalvikProxyClassFactory@b4ad85e0
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1477K, 10% free 15079K/16668K, paused 4ms+0ms, total 21ms
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1407K, 9% free 15593K/17112K, paused 10ms+1ms, total 28ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+D/RUBOTO  ( 8245): Setting JRuby current directory to /data/data/org.ruboto.example.rss_0/files
+
+E/RUBOTO  ( 8245): Unable to create the scripts dir.
+
+I/RUBOTO  ( 8245): Added directory to load path: /data/data/org.ruboto.example.rss_0/files/scripts
+
+D/RUBOTO  ( 8245): Changing JRuby current directory to /data/data/org.ruboto.example.rss_0/files/scripts
+
+D/RUBOTO  ( 8245): onResume: JRuby OK
+
+I/ActivityManager( 5240): START u0 {act=android.intent.action.VIEW cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=org.ruboto.example.rss_0/.Rss0Activity bnds=[243,131][354,254]} from pid 8245
+
+W/WindowManager( 5240): Failure taking screenshot for (246x410) to layer 21025
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/RUBOTO  ( 8245): onPause: 
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8245): Unexpected value from nativeGetEnabledTags: 0
+
+D/RUBOTO  ( 8245): EntryPointActivity onCreate:
+
+I/System.out( 8245): RubotoActivity onCreate(): org.ruboto.example.rss_0.Rss0Activity, finishing: false
+
+D/RUBOTO  ( 8245): Looking for Ruby class: Rss0Activity
+
+D/RUBOTO  ( 8245): Found: null
+
+D/RUBOTO  ( 8245): Checking path: /data/data/org.ruboto.example.rss_0/files/scripts/rss0_activity.rb
+
+D/RUBOTO  ( 8245): Checking path: scripts/rss0_activity.rb
+
+D/RUBOTO  ( 8245): Classpath resource: jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb
+
+D/RUBOTO  ( 8245): Found script.
+
+D/RUBOTO  ( 8245): Checking path: /data/data/org.ruboto.example.rss_0/files/scripts/rss0_activity.rb
+
+D/RUBOTO  ( 8245): Checking path: scripts/rss0_activity.rb
+
+D/RUBOTO  ( 8245): Classpath resource: jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb
+
+D/RUBOTO  ( 8245): hasBackingJavaClass
+
+D/RUBOTO  ( 8245): Loading script: rss0_activity.rb
+
+D/RUBOTO  ( 8245): Script contains class definition
+
+D/RUBOTO  ( 8245): Script has separate Java class
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1234K, 8% free 16281K/17640K, paused 5ms+1ms, total 32ms
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 948K, 6% free 17383K/18440K, paused 31ms+1ms, total 63ms
+
+D/dalvikvm( 8245): WAIT_FOR_CONCURRENT_GC blocked 20ms
+
+D/RUBOTO  ( 8245): Set class: Java::OrgRubotoExampleRss_0::Rss0Activity
+
+D/RUBOTO  ( 8245): Checking path: /data/data/org.ruboto.example.rss_0/files/scripts/rss0_activity.rb
+
+D/RUBOTO  ( 8245): Checking path: scripts/rss0_activity.rb
+
+D/RUBOTO  ( 8245): Classpath resource: jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 1377K, 8% free 18049K/19536K, paused 8ms+1ms, total 56ms
+
+D/dalvikvm( 8245): WAIT_FOR_CONCURRENT_GC blocked 19ms
+
+D/dalvikvm( 8245): GC_CONCURRENT freed 833K, 5% free 19265K/20208K, paused 22ms+1ms, total 71ms
+
+D/dalvikvm( 8245): WAIT_FOR_CONCURRENT_GC blocked 5ms
+
+I/System.out( 8245): LoadError: no such file to load -- simple-rss
+
+I/System.out( 8245):   require at org/jruby/RubyKernel.java:1065
+
+I/System.out( 8245):    (root) at jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb:3
+
+W/dalvikvm( 8245): threadid=10: thread exiting with uncaught exception (group=0xb3c6c908)
+
+E/AndroidRuntime( 8245): FATAL EXCEPTION: ScriptLoader for Java::OrgRubotoExampleRss_0::Rss0Activity
+
+E/AndroidRuntime( 8245): org.jruby.embed.EvalFailedException: (LoadError) no such file to load -- simple-rss
+
+E/AndroidRuntime( 8245): 	at org.jruby.embed.internal.EmbedEvalUnitImpl.run(EmbedEvalUnitImpl.java:133)
+
+E/AndroidRuntime( 8245): 	at org.jruby.embed.ScriptingContainer.runUnit(ScriptingContainer.java:1264)
+
+E/AndroidRuntime( 8245): 	at org.jruby.embed.ScriptingContainer.runScriptlet(ScriptingContainer.java:1257)
+
+E/AndroidRuntime( 8245): 	at java.lang.reflect.Method.invokeNative(Native Method)
+
+E/AndroidRuntime( 8245): 	at java.lang.reflect.Method.invoke(Method.java:511)
+
+E/AndroidRuntime( 8245): 	at org.ruboto.JRubyAdapter.runScriptlet(JRubyAdapter.java:103)
+
+E/AndroidRuntime( 8245): 	at org.ruboto.ScriptLoader$1.run(ScriptLoader.java:79)
+
+E/AndroidRuntime( 8245): 	at java.lang.Thread.run(Thread.java:856)
+
+E/AndroidRuntime( 8245): Caused by: org.jruby.exceptions.RaiseException: (LoadError) no such file to load -- simple-rss
+
+E/AndroidRuntime( 8245): 	at org.jruby.RubyKernel.require(org/jruby/RubyKernel.java:1065)
+
+E/AndroidRuntime( 8245): 	at RUBY.(root)(jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb:3)
+
+W/ActivityManager( 5240):   Force finishing activity org.ruboto.example.rss_0/.Rss0Activity
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+E/SurfaceFlinger(  794): ro.sf.lcd_density must be defined as a build property
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Activity pause timeout for ActivityRecord{b41f9618 u0 org.ruboto.example.rss_0/.Rss0Activity}
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+E/SurfaceFlinger(  794): ro.sf.lcd_density must be defined as a build property
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+I/ActivityManager( 5240): No longer want com.android.providers.calendar (pid 7880): empty for 4501s
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/AudioPolicyManagerBase( 4958): getOutput() could not find output for stream 1, samplingRate 0,format 0, channels 3, flags 0
+
+W/AudioPolicyManagerBase( 4958): getOutput() could not find output for stream 1, samplingRate 0,format 0, channels 3, flags 0
+
+W/AudioPolicyManagerBase( 4958): getOutput() could not find output for stream 1, samplingRate 44100,format 1, channels 1, flags 4
+
+E/AudioTrack( 5240): Could not get audio output for stream type 1
+
+E/SoundPool( 5240): Error creating AudioTrack
+
+I/Process ( 8245): Sending signal. PID: 8245 SIG: 9
+
+I/ActivityManager( 5240): Process org.ruboto.example.rss_0 (pid 8245) has died.
+
+I/WindowState( 5240): WIN DEATH: Window{b41de8d0 u0 org.ruboto.example.rss_0/org.ruboto.SplashActivity}
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+I/WindowState( 5240): WIN DEATH: Window{b41f24a8 u0 org.ruboto.example.rss_0/org.ruboto.SplashActivity}
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/InputMethodManagerService( 5240): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@b4226a40 attribute=null, token = android.os.BinderProxy@b40f7d60
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6400): Unexpected value from nativeGetEnabledTags: 0
+
+D/webviewglue( 6400): OnTrimMemory with EGL Context 0x0
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+E/libEGL  ( 6400): call to OpenGL ES API with no current context (logged once per thread)
+
+W/Trace   ( 6400): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6383): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6383): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8123): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 8123): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6089): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6089): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6089): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 6089): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f93e28 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f93e28 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f93e28 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b41e6de8
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 5240): GC_CONCURRENT freed 517K, 42% free 9150K/15668K, paused 9ms+1ms, total 17ms
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4029570 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4029570 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4029570 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b4501da8
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b403fda8 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b403fda8 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.AccountServiceProxy.getDeviceId(AccountServiceProxy.java:116)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService.getDeviceId(ExchangeService.java:1249)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1856)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b403fda8 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.AccountServiceProxy.getDeviceId(AccountServiceProxy.java:116)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService.getDeviceId(ExchangeService.java:1249)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1856)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b44ffbe0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4067270 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4067270 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4067270 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b41e3a68
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4067600 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4067600 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.AccountServiceProxy.getDeviceId(AccountServiceProxy.java:116)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService.getDeviceId(ExchangeService.java:1249)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1856)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4067600 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.AccountServiceProxy.getDeviceId(AccountServiceProxy.java:116)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService.getDeviceId(ExchangeService.java:1249)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1856)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+D/dalvikvm( 5709): GC_CONCURRENT freed 383K, 13% free 3791K/4312K, paused 0ms+1ms, total 18ms
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b41e0640
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4040b58 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4040b58 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4040b58 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b40edec8
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/dalvikvm( 5480): GC_CONCURRENT freed 388K, 15% free 2922K/3420K, paused 10ms+0ms, total 12ms
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+E/ThrottleService( 5240): problem during onPollAlarm: java.lang.IllegalStateException: problem parsing stats: java.io.FileNotFoundException: /proc/net/xt_qtaguid/iface_stat_all: open failed: ENOENT (No such file or directory)
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f3e4b8 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f3e4b8 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f3e4b8 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b44ea7e0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f61d90 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f61d90 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b3f61d90 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b44dd1b0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b402fbf8 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b402fbf8 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b402fbf8 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b441a7e8
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b408cc10 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b408cc10 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b408cc10 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+D/dalvikvm( 5709): GC_CONCURRENT freed 431K, 13% free 3791K/4332K, paused 0ms+1ms, total 7ms
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b4046720
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4058848 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4058848 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.AccountServiceProxy.getDeviceId(AccountServiceProxy.java:116)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService.getDeviceId(ExchangeService.java:1249)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1856)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b4058848 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.AccountServiceProxy.getDeviceId(AccountServiceProxy.java:116)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService.getDeviceId(ExchangeService.java:1249)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1856)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b41684d8
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b404a0e8 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b404a0e8 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b404a0e8 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b4410718
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5480): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5431): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onCreate
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+D/ExchangeService( 5709): !!! Email application not found; stopping self
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+E/ActivityThread( 5709): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b403dac0 that was originally bound here
+
+E/ActivityThread( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b403dac0 that was originally bound here
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/ActivityThread( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/ActivityThread( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/ActivityThread( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/ActivityThread( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/ActivityThread( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/ActivityThread( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+E/StrictMode( 5709): null
+
+E/StrictMode( 5709): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@b403dac0 that was originally bound here
+
+E/StrictMode( 5709): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:969)
+
+E/StrictMode( 5709): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:863)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1418)
+
+E/StrictMode( 5709): 	at android.app.ContextImpl.bindService(ContextImpl.java:1407)
+
+E/StrictMode( 5709): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:473)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:157)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:145)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:191)
+
+E/StrictMode( 5709): 	at com.android.exchange.ExchangeService$7.run(ExchangeService.java:1850)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:551)
+
+E/StrictMode( 5709): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:549)
+
+E/StrictMode( 5709): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/StrictMode( 5709): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/StrictMode( 5709): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/StrictMode( 5709): 	at java.lang.Thread.run(Thread.java:856)
+
+W/ActivityManager( 5240): Unbind failed: could not find connection for android.os.BinderProxy@b44337f8
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5709): Unexpected value from nativeGetEnabledTags: 0
+
+W/ActivityManager( 5240): Unable to start service Intent { act=com.android.email.ACCOUNT_INTENT } U=0: not found
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5240): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5370): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+W/Trace   ( 5492): Unexpected value from nativeGetEnabledTags: 0
+
+D/ExchangeService( 5709): Received deviceId from Email app: null
+
+D/ExchangeService( 5709): !!! deviceId unknown; stopping self and retrying
+
