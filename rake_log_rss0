@@ -290,3 +290,37 @@
 20140602 152249.496398 D/RUBOTO  ( 8245): Script has separate Java class
 20140602 152249.557401 D/dalvikvm( 8245): GC_CONCURRENT freed 1234K, 8% free 16281K/17640K, paused 5ms+1ms, total 32ms
 20140602 152249.730411 D/dalvikvm( 8245): GC_CONCURRENT freed 948K, 6% free 17383K/18440K, paused 31ms+1ms, total 63ms
+20140602 152249.736412 D/dalvikvm( 8245): WAIT_FOR_CONCURRENT_GC blocked 20ms
+20140602 152249.805416 D/RUBOTO  ( 8245): Set class: Java::OrgRubotoExampleRss_0::Rss0Activity
+20140602 152249.807416 D/RUBOTO  ( 8245): Checking path: /data/data/org.ruboto.example.rss_0/files/scripts/rss0_activity.rb
+20140602 152249.807416 D/RUBOTO  ( 8245): Checking path: scripts/rss0_activity.rb
+20140602 152249.817416 D/RUBOTO  ( 8245): Classpath resource: jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb
+20140602 152249.907421 D/dalvikvm( 8245): GC_CONCURRENT freed 1377K, 8% free 18049K/19536K, paused 8ms+1ms, total 56ms
+20140602 152249.917422 D/dalvikvm( 8245): WAIT_FOR_CONCURRENT_GC blocked 19ms
+20140602 152250.067431 D/dalvikvm( 8245): GC_CONCURRENT freed 833K, 5% free 19265K/20208K, paused 22ms+1ms, total 71ms
+20140602 152250.077431 D/dalvikvm( 8245): WAIT_FOR_CONCURRENT_GC blocked 5ms
+20140602 152250.152435 I/System.out( 8245): LoadError: no such file to load -- simple-rss
+20140602 152250.152435 I/System.out( 8245):   require at org/jruby/RubyKernel.java:1065
+20140602 152250.153435 I/System.out( 8245):    (root) at jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb:3
+20140602 152250.154436 W/dalvikvm( 8245): threadid=10: thread exiting with uncaught exception (group=0xb3c6c908)
+20140602 152250.161436 E/AndroidRuntime( 8245): FATAL EXCEPTION: ScriptLoader for Java::OrgRubotoExampleRss_0::Rss0Activity
+20140602 152250.161436 E/AndroidRuntime( 8245): org.jruby.embed.EvalFailedException: (LoadError) no such file to load -- simple-rss
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at org.jruby.embed.internal.EmbedEvalUnitImpl.run(EmbedEvalUnitImpl.java:133)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at org.jruby.embed.ScriptingContainer.runUnit(ScriptingContainer.java:1264)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at org.jruby.embed.ScriptingContainer.runScriptlet(ScriptingContainer.java:1257)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at java.lang.reflect.Method.invokeNative(Native Method)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at java.lang.reflect.Method.invoke(Method.java:511)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at org.ruboto.JRubyAdapter.runScriptlet(JRubyAdapter.java:103)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at org.ruboto.ScriptLoader$1.run(ScriptLoader.java:79)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at java.lang.Thread.run(Thread.java:856)
+20140602 152250.161436 E/AndroidRuntime( 8245): Caused by: org.jruby.exceptions.RaiseException: (LoadError) no such file to load -- simple-rss
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at org.jruby.RubyKernel.require(org/jruby/RubyKernel.java:1065)
+20140602 152250.161436 E/AndroidRuntime( 8245): 	at RUBY.(root)(jar:file:/data/app/org.ruboto.example.rss_0-2.apk!/rss0_activity.rb:3)
+20140602 152250.166436 W/ActivityManager( 5240):   Force finishing activity org.ruboto.example.rss_0/.Rss0Activity
+20140602 152250.668465 W/ActivityManager( 5240): Activity pause timeout for ActivityRecord{b41f9618 u0 org.ruboto.example.rss_0/.Rss0Activity}
+20140602 152255.120720 I/Process ( 8245): Sending signal. PID: 8245 SIG: 9
+20140602 152255.120720 I/ActivityManager( 5240): Process org.ruboto.example.rss_0 (pid 8245) has died.
+20140602 152255.122720 I/WindowState( 5240): WIN DEATH: Window{b41de8d0 u0 org.ruboto.example.rss_0/org.ruboto.SplashActivity}
+20140602 152255.135720 I/WindowState( 5240): WIN DEATH: Window{b41f24a8 u0 org.ruboto.example.rss_0/org.ruboto.SplashActivity}
+Terminate batch job (Y/N)? 
+
